@@ -1,39 +1,50 @@
 微软
 Microsoft
+@3
 
 英伟达
 NVIDIA
 黄仁勋
+@3
 
 AMD
+@3
 
 谷歌
 google
 gemini
 deepmind
+@3
 
 chatgpt
 openai
 sora
+@3
 
 claude
 Anthropic
+@3
 
 iphone
 ipad
 mac
 ios
+@3
 
 ai
 人工智能
 !gai
+@5
 
 自动驾驶
+@3
 
 机器人
+@3
 
 国产
 中国
+@5
 
 美国
 日本
@@ -45,11 +56,13 @@ ai
 @5
 
 科技
+@5
 
 核能
-
+@5
 
 新质生产力
+@5
 
 月球
 登月
@@ -57,3 +70,4 @@ ai
 宇宙
 飞船
 航空
+@5
